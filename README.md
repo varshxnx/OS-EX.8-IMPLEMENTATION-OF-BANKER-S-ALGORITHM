@@ -149,7 +149,8 @@ return 0;
 }
 ```
 ## OUTPUT:
-![output1](https://github.com/Shrruthilaya-Gangadaran/OS-EX.8-IMPLEMENTATION-OF-BANKER-S-ALGORITHM/assets/93427705/23e63015-4f74-4d6f-abff-5362d941b451)
+![8](https://github.com/varshxnx/OS-EX.8-IMPLEMENTATION-OF-BANKER-S-ALGORITHM/assets/122253525/99b9f766-8f8a-436b-8406-c66b412d5cf5)
+
 
 ## RESULT:
 Thus, Bankers Algorithm to avoid Deadlock is implemented successfully using c program.
